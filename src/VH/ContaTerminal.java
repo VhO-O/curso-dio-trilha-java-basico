@@ -6,6 +6,5 @@ public class ContaTerminal {
     String nomeCliente;
     float saldo;
 
-
-
+    
 }

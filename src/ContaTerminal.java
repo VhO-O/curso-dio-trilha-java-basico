@@ -26,7 +26,8 @@ public class ContaTerminal {
                 .concat(agencia)
                 .concat(", conta ")
                 .concat(String.valueOf(numero))
-                .concat(" e seu saldo ").concat(String.valueOf(saldo))
+                .concat(" e seu saldo ")
+                .concat(String.valueOf(saldo))
                 .concat(" já está disponível para saque.");
 
         System.out.println(texto);
